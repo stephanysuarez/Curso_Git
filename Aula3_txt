@@ -1,0 +1,56 @@
+    1  history 
+    2  clear
+    3  git config 
+    4  clear
+    5  git config --global user.name 'Stephany Suarez'
+    6  cd ..
+    7  cd 
+    8  clear
+    9  ls
+   10  clear
+   11  git config --global user.name 'Stephany Suarez'
+   12  git config --global user.email 'mstephanysuarezd8=[@g
+
+git config --global usrr
+git config --global user.email 'mstephanysuarezd18@gmail.com'
+
+   13  git config user.name
+   14  git config --global user.email 'mstephanysuarezd18@gmail.com'
+   15  git config user.email
+   16  cd Desktop/
+   17  ls
+   18  cd Curso_Git/
+   19  git config user.name
+   20  git init
+   21  git status 
+   22  echo '#Aprendendo usar o Git' > readme.md
+   23  git status
+   24  git add readme.md 
+   25  git status
+   26  git commit -m 'Commit inicial'
+   27  git status 
+   28  echo '3
+
+
+
+   29  echo '##Aula 1' >> readme.md
+   30  git status
+   31  echo 'Stephany Suarez' > participantes.txt
+   32  git status
+   33  git add .
+   34  git status
+   35  git restore --staged participantes.txt
+   36  git status
+   37  git add participantes.txt 
+   38  git status
+   39  git restore staged .
+   40  git status
+   41  git restore staged .
+   42  git restore --staged .
+   43  git status
+   44  git commit -am 'Alteração no readme'
+   45  git status
+   46  git add participantes.txt 
+   47  git status
+   48  git commit -m 'Adicionado participantes.txt'
+   49  history > Aula3_txt
